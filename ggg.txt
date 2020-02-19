@@ -1,1 +1,2 @@
 The new file
+The second file
